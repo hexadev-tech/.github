@@ -57,19 +57,6 @@ Kami mengembangkan sistem berbasis teknologi yang solid, ringan, dan mudah dikem
 
 ---
 
-## 📁 Struktur Repositori (Contoh)
-
-```
-📦 hexadev-tech/
-├── landing-page/            # Website utama
-├── web-client-projects/     # Repositori klien
-├── media-assets/            # Konten visual & dokumentasi
-├── templates/               # Boilerplate internal
-└── docs/                    # Panduan teknis & SOP
-```
-
----
-
 ## 📜 Lisensi
 
 Seluruh repositori dalam organisasi ini berada di bawah lisensi **MIT** kecuali dinyatakan lain.  
