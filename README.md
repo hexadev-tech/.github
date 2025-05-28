@@ -49,7 +49,7 @@ Kami mengembangkan sistem berbasis teknologi yang solid, ringan, dan mudah dikem
 
 ---
 
-## 🌐 Jejak Digital
+## 🌐 Hubungi Kami!
 
 - 📧 Email: **hexadevtechnologies@gmail.com**
 - 📸 Instagram: [@hexadevtech](https://instagram.com/hexadevtech)
